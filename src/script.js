@@ -21,7 +21,7 @@ const scene = new THREE.Scene()
  */
 const cube = new THREE.Mesh(
     new THREE.BoxGeometry(1, 1, 1),
-    new THREE.MeshBasicMaterial()
+    new THREE.MeshBasicMaterial({color:0xff00ff})
 )
 scene.add(cube)
 
