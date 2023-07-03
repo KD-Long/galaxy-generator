@@ -63,6 +63,6 @@ git push -u origin main
 
 3. Webhook event triggered --> hostinger
 
-4. Automatic deployment --> ~/public_html/_sub_haunted-house/
+4. Automatic deployment --> ~/public_html/_sub_galaxy-generator/
 
 5. Configured sub domain [galaxy-generator.kyledlong.com](galaxy-generator.kyledlong.com) to point to "_sub_galaxy-generator/" folder
